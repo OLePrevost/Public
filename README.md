@@ -1,2 +1,2 @@
 # Public
-Public Scripts
+Public Scripts and configurations
